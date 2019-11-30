@@ -6,7 +6,7 @@ def my_each(array)
  i = i + 1
  end
 end
-my_each(list) {I feel like #{i} is hard to learn}
+my_each(list) {"I feel like #{i} is hard to learn"}
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
   if name.start_with? ("T")
