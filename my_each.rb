@@ -9,3 +9,5 @@ end
 my_each(list) {"I feel like #{i} is hard to learn"}
 
 def hello(array)
+  i = 0
+collections
