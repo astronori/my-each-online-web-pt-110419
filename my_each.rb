@@ -18,4 +18,4 @@ end
 collection
 end
 
-hello()
+hello(list) 
