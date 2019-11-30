@@ -5,9 +5,7 @@ def my_each(array)
  yield array[i]
  i = i + 1
  end
- array
- else
-   puts "Hey! No block was given!"
+
 end
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
