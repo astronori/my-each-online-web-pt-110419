@@ -18,4 +18,4 @@ end
 collection
 end
 
-hello(list) 
+hello(list) {|i| "Hello #{i} how is everything?"}
