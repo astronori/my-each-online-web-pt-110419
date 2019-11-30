@@ -8,8 +8,4 @@ def my_each(array)
 end
 my_each(list) {"I feel like #{i} is hard to learn"}
 
-hello_t(["Tim", "Tom", "Jim"]) do |name|
-  if name.start_with? ("T")
-    puts "Hi, #{name}"
-  end
-end
+def hello(array)
